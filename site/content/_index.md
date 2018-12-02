@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Church.law"
+subtitle: Tools for Congregations
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
