@@ -4,7 +4,7 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Test edit to products/_index.md
+  Test edit to products index.md
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
