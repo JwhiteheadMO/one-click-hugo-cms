@@ -1,8 +1,8 @@
 ---
-title: Updates
-type: products
+title: Products
+type: Products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Updates
 description: >-
   We really need to change this update.
 intro:
