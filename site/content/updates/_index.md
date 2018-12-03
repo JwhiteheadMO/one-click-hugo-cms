@@ -1,10 +1,13 @@
 ---
-title: Products
-type: Products
+title: Our Coffee
+type: products
 image: /img/products-jumbotron.jpg
-heading: Updates
+heading: What we offer
 description: >-
-  We really need to change this update.
+  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take coffee production,
+  roasting and brewing seriously and we’re glad to pass that knowledge to
+  anyone.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -16,7 +19,7 @@ intro:
         availability.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a testing small, but carefully curated selection of brewing gear and
+        We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
@@ -95,3 +98,5 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
+
