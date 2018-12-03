@@ -35,7 +35,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
+  description: >-
   Test edit to products index.md
 main:
   heading: Great coffee with no compromises
